@@ -41,9 +41,9 @@ Once the program starts, you will see a menu with the following options:
 
 The program stores your ride history in a JSON file named `cycling_history.json`. This file will be created in the same directory where you run the `cycling_tracker.py` script. You do not need to interact with this file directly.
 
-## Further Improvements (Beginner to Easy Practice)
 
-Here are some ideas for expanding this program and practicing more Python skills:
+
+Improvements I can make
 
 * **Calculating Total Statistics:** Add a menu option to display the total distance ridden, total time spent cycling, and the overall average speed.
 * **Filtering Rides:** Implement a feature to filter rides by date range or keywords in the notes.
